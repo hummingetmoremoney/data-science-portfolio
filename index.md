@@ -13,6 +13,15 @@ can be checked by someone else.
 This site is my portfolio. It is built from this repository with GitHub Pages, deployed from
 the `main` branch.
 
+## At a glance
+
+- **Question.** In a country where electric cars have just passed 1% of new car sales, how long
+  does it take to reach 10%?
+- **Answer.** A median of four years across the 45 markets that made it, with the whole range
+  between one and seven years.
+- **Caveat.** That median counts only markets that arrived, so it is too optimistic: Japan
+  passed 1% in 2017 and is still at 3% today.
+
 ## Technical skills
 
 - **Python** — pandas for cleaning and reshaping, matplotlib for charts, scikit-learn for
